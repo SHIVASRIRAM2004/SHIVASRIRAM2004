@@ -29,7 +29,7 @@ I'm a Computer Science student from Hyderabad with a passion for building intell
 - 🌱 Learning: **Deep Learning, Spring Boot, System Design**
 - 💡 Interests: Machine Learning, Healthcare AI, Backend Engineering
 - 🎯 Goal: Land a role where I can ship impactful software
-- 📬 Reach me: **[your-email@gmail.com]**
+- 📬 Reach me: **[shivaaa2004@gmail.com]**
 
 ---
 
